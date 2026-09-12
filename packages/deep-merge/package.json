@@ -43,7 +43,7 @@
   },
   "dependencies": {
     "@empathyco/x-utils": "workspace:@ajperezbau/x-utils@*",
-    "tslib": "~2.5.0"
+    "tslib": "~2.8.0"
   },
   "devDependencies": {
     "@types/jest": "~27.5.0",
